@@ -1,18 +1,26 @@
-# 👋 Hi, I'm Abhay Singh
+# 👋 Hi, I'm Abhay Pratap Singh
 
-🚀 **Cloud & DevOps Engineer | Azure | Terraform | Jenkins | Kubernetes**
+🚀 **Cloud & DevOps Engineer | Kubernetes | Terraform | Jenkins | Azure (in progress)**
 
-I design and implement **CI/CD pipelines** and **Infrastructure as Code (IaC)** solutions for scalable, secure, and automated cloud deployments. My focus is on **Azure Cloud**, **Terraform modules**, and **Jenkins pipelines** that integrate seamlessly with Docker and Kubernetes.
+I specialize in designing and implementing **CI/CD pipelines** and **Infrastructure as Code (IaC)** solutions for scalable, secure, and automated cloud deployments. My expertise spans **Kubernetes (CKA, CKS certified)**, **Terraform modules**, and **Jenkins pipelines** integrated with Docker and cloud platforms.
+
+---
+
+## 🎓 Certifications
+- ✅ **Certified Kubernetes Administrator (CKA)**  
+- ✅ **Certified Kubernetes Security Specialist (CKS)**  
+- 📖 Preparing for **Microsoft Azure Administrator (AZ‑104)**  
+- 📖 Preparing for **Microsoft Azure Solutions Architect Expert (AZ‑305)**  
 
 ---
 
 ## 🔧 Skills & Tools
-- **Cloud**: Microsoft Azure (Networking, AKS, VM, Storage, RBAC, Monitoring)
-- **IaC**: Terraform (modular, reusable modules, production‑grade structures)
-- **CI/CD**: Jenkins, GitHub Actions
-- **Containers**: Docker, Kubernetes (AKS, Minikube)
-- **DevOps**: Git/GitHub, Ansible, Prometheus, Grafana
-- **Security**: Azure AD, NSG, Key Vault, Zero‑Trust
+- **Cloud**: Microsoft Azure (Networking, AKS, VM, Storage, RBAC, Monitoring)  
+- **IaC**: Terraform (modular, reusable modules, production‑grade structures)  
+- **CI/CD**: Jenkins, GitHub Actions  
+- **Containers**: Docker, Kubernetes (AKS, Minikube)  
+- **DevOps**: Git/GitHub, Ansible, Prometheus, Grafana  
+- **Security**: Kubernetes RBAC, Pod Security Policies, Azure AD, NSG, Key Vault  
 
 ---
 
@@ -29,14 +37,12 @@ I design and implement **CI/CD pipelines** and **Infrastructure as Code (IaC)** 
 ---
 
 ## 🎯 Current Goals
-- Achieve **AZ‑104** and **AZ‑305** certifications.  
+- Strengthen Azure expertise with **AZ‑104** and **AZ‑305** certifications.  
 - Transition into a **Cloud Solution Architect** role.  
 - Build advanced CI/CD pipelines with hybrid cloud and DR patterns.  
 
 ---
 
 ## 📫 Connect with Me
-- **LinkedIn**: [linkedin.com/in/asabhaysingh328](https://www.linkedin.com/in/abhay-pratap-singh-0316b377/)  
+- **LinkedIn**: [linkedin.com/in/asabhaysingh328](https://linkedin.com/in/asabhaysingh328)  
 - **GitHub**: [github.com/asabhaysingh328](https://github.com/asabhaysingh328)  
-
----
