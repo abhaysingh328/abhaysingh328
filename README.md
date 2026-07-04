@@ -14,13 +14,21 @@ I specialize in designing and implementing **CI/CD pipelines** and **Infrastruct
 
 ---
 
+
 ## 🔧 Skills & Tools
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?logo=terraform&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+
 - **Cloud**: Microsoft Azure (Networking, AKS, VM, Storage, RBAC, Monitoring)  
 - **IaC**: Terraform (modular, reusable modules, production‑grade structures)  
 - **CI/CD**: Jenkins, GitHub Actions  
 - **Containers**: Docker, Kubernetes (AKS, Minikube)  
 - **DevOps**: Git/GitHub, Ansible, Prometheus, Grafana  
-- **Security**: Kubernetes RBAC, Pod Security Policies, Azure AD, NSG, Key Vault  
+- **Security**: Kubernetes RBAC, Pod Security Policies, Azure AD, NSG, Key Vault    
 
 ---
 
