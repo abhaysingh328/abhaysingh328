@@ -33,14 +33,32 @@ I specialize in designing and implementing **CI/CD pipelines** and **Infrastruct
 ---
 
 ## 📌 Featured Projects
-- [**jenkins-docker-k8s-pipeline**](https://github.com/asabhaysingh328/jenkins-docker-k8s-pipeline)  
-  CI/CD pipeline that builds Docker images, pushes to Docker Hub, and deploys into Kubernetes (Minikube).
 
-- [**azure-networking-ci-pipeline**](https://github.com/asabhaysingh328/azure-networking-ci-pipeline)  
-  Jenkins + Terraform pipeline deploying Azure networking infrastructure (VNet, Subnet, NSG) using modular IaC.
+### 🚀 Jenkins + Docker + Kubernetes Pipeline
+[**jenkins-docker-k8s-pipeline**](https://github.com/abhaysingh328/myapp)  
+CI/CD pipeline that builds Docker images, pushes them to Docker Hub, and deploys into Kubernetes (Minikube).  
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white) 
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) 
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
 
-- [**terraform-modules-library**](https://github.com/asabhaysingh328/terraform-modules-library)  
-  A collection of reusable Terraform modules for Azure resources (networking, compute, security).
+---
+
+### ☁️ Azure Networking Automation
+[**azure-networking-ci-pipeline**](https://github.com/abhaysingh328/azure-networking-ci-pipeline)  
+Jenkins + Terraform pipeline deploying Azure networking infrastructure (VNet, Subnet, NSG) using modular IaC.  
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?logo=terraform&logoColor=white) 
+![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white)
+
+---
+
+### 📦 Terraform Modules Library
+[**terraform-modules-library**](https://github.com/abhaysingh328/terraform-modules-library)  
+A collection of reusable Terraform modules for Azure resources (networking, compute, security).  
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?logo=terraform&logoColor=white) 
+![Infrastructure](https://img.shields.io/badge/IaC-000000?logo=github&logoColor=white)
+
+---
+
 
 ---
 
