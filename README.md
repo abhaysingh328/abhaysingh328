@@ -44,5 +44,5 @@ I specialize in designing and implementing **CI/CD pipelines** and **Infrastruct
 ---
 
 ## 📫 Connect with Me
-- **LinkedIn**: [linkedin.com/in/asabhaysingh328](https://linkedin.com/in/asabhaysingh328)  
+- **LinkedIn**: [linkedin.com/in/asabhaysingh328](https://www.linkedin.com/in/abhay-pratap-singh-0316b377/)  
 - **GitHub**: [github.com/asabhaysingh328](https://github.com/asabhaysingh328)  
